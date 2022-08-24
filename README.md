@@ -1,2 +1,3 @@
 # FavoritesApp
-![Ekran görüntüsü 2022-08-23 170747](https://user-images.githubusercontent.com/73031908/186398438-64a37c2f-e591-4e9a-902e-f057fd5cabc9.png)
+![Ekran görüntüsü 2022-08-24 133931](https://user-images.githubusercontent.com/73031908/186398501-c89498ae-8711-473e-a785-e0e98ddb6e84.png)
+
