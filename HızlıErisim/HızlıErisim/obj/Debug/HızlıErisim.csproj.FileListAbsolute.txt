@@ -1,0 +1,11 @@
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\bin\Debug\HızlıErisim.exe.config
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\bin\Debug\HızlıErisim.exe
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\bin\Debug\HızlıErisim.pdb
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\obj\Debug\HızlıErisim.csproj.AssemblyReference.cache
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\obj\Debug\HızlıErisim.csproj.SuggestedBindingRedirects.cache
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\obj\Debug\HızlıErisim.Form1.resources
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\obj\Debug\HızlıErisim.Properties.Resources.resources
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\obj\Debug\HızlıErisim.csproj.GenerateResource.cache
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\obj\Debug\HızlıErisim.csproj.CoreCompileInputs.cache
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\obj\Debug\HızlıErisim.exe
+C:\Users\porta\OneDrive\Masaüstü\DotNet\HızlıErisim\HızlıErisim\obj\Debug\HızlıErisim.pdb
